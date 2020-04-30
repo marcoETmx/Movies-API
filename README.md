@@ -6,7 +6,7 @@ Express course project, movies API, this project build with:
 - Express
 - MongoDB
 
-Other dependecies:
+Other dependencies:
 
 - @hapi/boom
 - @hapi/joi
@@ -17,7 +17,7 @@ Other dependecies:
 - proxyquire
 
 ## Demo
-If you want to see the demo of this proyect deployed, you can visit [Movies API](https://movies-api-beta.now.sh/api/movies)
+If you want to see the demo of this project deployed, you can visit [Movies API](https://movies-api-beta.now.sh/api/movies)
 
 ## How to clone
 * Clone the project
