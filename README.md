@@ -25,7 +25,7 @@ If you want to see the demo of this proyect deployed, you can visit [Movies API]
 * Fill the config file env
 
 ## Installation
-To install this proyect just type and execute
+To install this project just type and execute
 
 ```bash
 npm install
@@ -41,8 +41,6 @@ npm run dev
 
 The project run in http://localhost:3000/
 
-
-If you would like to know how structure this project, you can to access to [wiki](https://github.com/maet12/Platzi-overflow/wiki/Project-structure)
 
 ## API Docs
 
